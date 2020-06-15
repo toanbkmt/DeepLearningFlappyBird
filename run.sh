@@ -1,3 +1,6 @@
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python2 get-pip.py
+
 # The virtualenv package is required to create virtual environments. You can install it with pip:
 pip2 install virtualenv
 
